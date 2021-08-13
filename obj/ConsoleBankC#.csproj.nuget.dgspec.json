@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jenne\\Desktop\\school\\DOTNET\\ConsoleBankC#\\ConsoleBankC#.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jenne\\Desktop\\school\\DOTNET\\ConsoleBankC#\\ConsoleBankC#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jenne\\Desktop\\school\\DOTNET\\ConsoleBankC#\\ConsoleBankC#.csproj",
+        "projectName": "ConsoleBankC#",
+        "projectPath": "C:\\Users\\jenne\\Desktop\\school\\DOTNET\\ConsoleBankC#\\ConsoleBankC#.csproj",
+        "packagesPath": "C:\\Users\\jenne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenne\\Desktop\\school\\DOTNET\\ConsoleBankC#\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jenne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

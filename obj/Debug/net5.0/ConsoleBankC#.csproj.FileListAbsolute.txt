@@ -1,0 +1,16 @@
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.exe
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.deps.json
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.runtimeconfig.json
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.runtimeconfig.dev.json
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.dll
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ref\ConsoleBankC#.dll
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\bin\Debug\net5.0\ConsoleBankC#.pdb
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.csproj.AssemblyReference.cache
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.AssemblyInfoInputs.cache
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.AssemblyInfo.cs
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.csproj.CoreCompileInputs.cache
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.dll
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ref\ConsoleBankC#.dll
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.pdb
+C:\Users\jenne\Desktop\school\DOTNET\ConsoleBankC#\obj\Debug\net5.0\ConsoleBankC#.genruntimeconfig.cache
